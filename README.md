@@ -1,0 +1,1 @@
+This folder mainly contains code files that try out the various aspects of Julia, ArviZ, Makie, Tables and various other packages that I need to be fimilar with in order to successfully port the diagnostic plots.
